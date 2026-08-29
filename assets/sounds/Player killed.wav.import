@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4ecyigxi7anj"
+path="res://.godot/imported/Player killed.wav-c24db27a425dfed11601c97b58981597.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Player killed.wav"
+dest_files=["res://.godot/imported/Player killed.wav-c24db27a425dfed11601c97b58981597.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
